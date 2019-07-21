@@ -1,0 +1,20 @@
+Server: Apache
+P3P: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT DSP COR CAO PSA IDC ADM DEVi TAIi PSD IVAi IVDi CONi HIS CNT"
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate
+Expires: 0
+Timing-Allow-Origin: https://www.tripadvisor.com
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+Date: Sun, 21 Jul 2019 04:34:49 GMT
+Set-Cookie: TASSK=enc%3AAN9SMIr3SHTGIUZiHwzaZEryKJt%2BHmF8RUNOiS05VRbm8uZUK7fS%2BFFtQks9EZwgDCnE0x9zyoYTSYRYXeP8ONgNrjsBCJdXTMmiWLXCVOl8EMu0N4ZBHsDbk%2Bnba41qHA%3D%3D; Domain=www.tripadvisor.com; Expires=Fri, 17-Jan-2020 04:34:49 GMT; Path=/; HttpOnly
+Set-Cookie: TASession=V2ID.C7A3CC0ACDA65C873BDF0C4681A86CBB*SQ.1*LS.Restaurants*GR.49*TCPAR.96*TBR.47*EXEX.79*ABTR.96*PHTB.46*FS.99*CPU.82*HS.recommended*ES.popularity*DS.5*SAS.popularity*FPS.oldFirst*FA.1*DF.0*RT.0*TRA.true*LD.293917; Domain=.tripadvisor.com; Path=/
+Set-Cookie: PAC=ALL94ZpGRVjQYeqiZ5VWYhVkAVJMC0EY_4dcGYwrs6WKwqYMXT1uUyS5wEr7_z6I3ru8lR_dH5_GEcC_3so9mVHYf_JM-0MssRFqk5Y-7Sv1t7Xzm2XXWnqRTOvsBYB9dChJ1xpJWJlr6bjaPRQdp31HKFASLQpHXmih3Y1bJqCz8F46pfmeyX0cZEauS405jQ%3D%3D; Domain=www.tripadvisor.com; Expires=Tue, 20-Jul-2021 04:34:49 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: SRT=null; Domain=www.tripadvisor.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: ServerPool=B; Domain=.tripadvisor.com; Path=/
+Set-Cookie: PMC=V2*MS.29*MD.20190721*LD.20190721; Domain=www.tripadvisor.com; Expires=Tue, 20-Jul-2021 04:34:49 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: TART=%1%enc%3ABbZ9OdXjoF9GcJLh34e9jhpaJ2yIZgkq%2FyPJHtrU9BXflwxJEvUu0cASZXlUSgqLxswPS262DO4%3D; Domain=www.tripadvisor.com; Expires=Fri, 26-Jul-2019 04:34:49 GMT; Path=/; HttpOnly
+Set-Cookie: TATravelInfo=V2*A.2*MG.-1*HP.2*FL.3*RS.1; Domain=.tripadvisor.com; Expires=Sun, 04-Aug-2019 04:34:49 GMT; Path=/
+Set-Cookie: TAUD=RDD-1563683689025-2019_07_21; Domain=.tripadvisor.com; Expires=Sun, 04-Aug-2019 04:34:49 GMT; Path=/
+Set-Cookie: TAUnique=%1%enc%3AWJqnX1P9oUsFtn051eOgX%2B1iUzzQGPUsiUuMXGb241BQ7hkA15SYJg%3D%3D; Domain=.tripadvisor.com; Expires=Tue, 20-Jul-2021 04:34:49 GMT; Path=/; HttpOnly

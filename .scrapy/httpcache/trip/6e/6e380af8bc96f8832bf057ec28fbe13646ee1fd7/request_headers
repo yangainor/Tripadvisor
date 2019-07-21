@@ -1,0 +1,6 @@
+Referer: https://www.tripadvisor.com/RestaurantSearch-g293917-oa'+str(30*i)+'-Chiang_Mai.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/1.6.0 (+https://scrapy.org)
+Accept-Encoding: gzip,deflate
+Cookie: TASSK=enc%3AAI846FmjgOQPniuW0zq9znTXVJSWbLCqTkr0Z4snNbV49l3IuOxjsI3qtw4wZ0vrDz1y2ZdrwAupV8KGED201Pz5ZoIonvGyaXwO7LTjOlj9pOjDX7oFMLG%2FNSKl1Ybcdg%3D%3D; PAC=ACzVFpRGQD0DcAFDzWYS_wZnsMPOtpXeV3psEUp-NPgDnIlwh47aS71xJgCQZrRrPFNMkx8QbrdOvFuaYomT_6EHTpP6499niYFYr10nnryh_WJpOwVbMqsRnK2NyCzIzVwuXBd48daTSt8bBezjNcHcsgs1JO3SOYnVBbGBovYNb0GkjZm8o8f7vMbkNH21Vw%3D%3D; PMC=V2*MS.43*MD.20190721*LD.20190721; TART=%1%enc%3ABbZ9OdXjoF9bLjrT8Gb18YkixLtxPQ%2BFabMdFjErog63g5%2BTtTmcNq1G5Q5iq7194Bko0f3fLng%3D; TASession=V2ID.72D0BA5601BE6853493FF15AB0252E7D*SQ.1*LS.Restaurants*GR.33*TCPAR.18*TBR.88*EXEX.43*ABTR.93*PHTB.80*FS.52*CPU.62*HS.recommended*ES.popularity*DS.5*SAS.popularity*FPS.oldFirst*FA.1*DF.0*RT.0*TRA.true*LD.293917; ServerPool=B; TATravelInfo=V2*A.2*MG.-1*HP.2*FL.3*RS.1; TAUD=RDD-1563683685247-2019_07_21; TAUnique=%1%enc%3AVKK35ccNSSEFtn051eOgX%2B1iUzzQGPUszYrDEGIdOMVUMXxgZfpo8g%3D%3D
